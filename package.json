@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "uglifycss": "^0.0.29"
+  },
+  "scripts": {"build": "uglifycss github.css --output github.min.css"}
+}
