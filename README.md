@@ -8,7 +8,6 @@ Building minified version:
 git clone --depth=1 https://github.com/PhilipTrauner/pygments-github-css
 cd pygments-github-css
 yarn install
-yarn build
 ```
 
 Using CDN:

@@ -3,7 +3,7 @@
     "uglifycss": "^0.0.29"
   },
   "scripts": {
-    "build": "uglifycss github.css --output github.min.css"
+    "install": "uglifycss github.css --output github.min.css"
   },
   "name": "pygments-github-css",
   "version": "1.0.0",
