@@ -2,5 +2,12 @@
   "dependencies": {
     "uglifycss": "^0.0.29"
   },
-  "scripts": {"build": "uglifycss github.css --output github.min.css"}
+  "scripts": {
+    "build": "uglifycss github.css --output github.min.css"
+  },
+  "name": "pygments-github-css",
+  "version": "1.0.0",
+  "repository": "git@github.com:/PhilipTrauner/pygments-github-css",
+  "author": "Philip Trauner <philip.trauner@arztpraxis.io>",
+  "license": "MIT"
 }
