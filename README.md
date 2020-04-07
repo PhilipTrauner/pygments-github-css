@@ -12,7 +12,7 @@ yarn install
 
 Using CDN:
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/PhilipTrauner/pygments-github-css/master/github.css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/PhilipTrauner/pygments-github-css@master/github.css" />
 ```
 
 ## Compromises
